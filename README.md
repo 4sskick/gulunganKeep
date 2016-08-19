@@ -8,6 +8,7 @@ This is project with purpose for digitize ancient documents to prevent damage fo
 
 ### 19/08/2016 ###
 * All features done
+* Added filter on toolbar with SearchView
 * Prototype has been ready with data dummies
 
 ### 31/07/2016 ###
