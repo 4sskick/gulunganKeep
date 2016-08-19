@@ -6,6 +6,10 @@ This is project with purpose for digitize ancient documents to prevent damage fo
 
 <a data-flickr-embed="true" data-header="true" data-footer="true" data-context="true"  href="https://www.flickr.com/photos/95322148@N05/28290344701/in/dateposted-public/" title="gulung2"><img src="https://c6.staticflickr.com/9/8684/28290344701_b6f29f0f4a_z.jpg" width="328" height="582" alt="gulung2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+### 19/08/2016 ###
+* All features done
+* Prototype has been ready with data dummies
+
 ### 31/07/2016 ###
 * Comment Feature Done
 
@@ -31,8 +35,6 @@ This is project with purpose for digitize ancient documents to prevent damage fo
 
 ### Next (?) ###
 
-* User Account Page
-* Camera Permission
 * Back-End Support
 
 ### Who do I talk to? ###
